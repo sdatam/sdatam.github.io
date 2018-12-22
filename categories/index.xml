@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on &gt; sdatam_blog</title>
+    <link>https://sdatam.github.io/categories/</link>
+    <description>Recent content in Categories on &gt; sdatam_blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@sdatam.com (Sdatam)</managingEditor>
+    <webMaster>info@sdatam.com (Sdatam)</webMaster>
+    
+	<atom:link href="https://sdatam.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on &gt; sdatam_blog</title>
+    <link>https://sdatam.github.io/tags/</link>
+    <description>Recent content in Tags on &gt; sdatam_blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@sdatam.com (Sdatam)</managingEditor>
+    <webMaster>info@sdatam.com (Sdatam)</webMaster>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sdatam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adb</title>
+      <link>https://sdatam.github.io/tags/adb/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/adb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alertdialog</title>
+      <link>https://sdatam.github.io/tags/alertdialog/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/alertdialog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://sdatam.github.io/tags/android/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Studio</title>
+      <link>https://sdatam.github.io/tags/android-studio/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/android-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apktool</title>
+      <link>https://sdatam.github.io/tags/apktool/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/apktool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Console</title>
+      <link>https://sdatam.github.io/tags/console/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/console/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialogs</title>
+      <link>https://sdatam.github.io/tags/dialogs/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/dialogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering</title>
+      <link>https://sdatam.github.io/tags/reverse-engineering/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/reverse-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>https://sdatam.github.io/tags/terminal/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://sdatam.github.io/tags/tools/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

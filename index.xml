@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&gt; sdatam_blog</title>
+    <link>https://sdatam.github.io/</link>
+    <description>Recent content on &gt; sdatam_blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@sdatam.com (Sdatam)</managingEditor>
+    <webMaster>info@sdatam.com (Sdatam)</webMaster>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sdatam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alert Dialog Örneği</title>
+      <link>https://sdatam.github.io/post/2018-12-21-alert-dialog-example/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/post/2018-12-21-alert-dialog-example/</guid>
+      <description>&lt;h3 id=&#34;nedir&#34;&gt;Nedir?&lt;/h3&gt;
+
+&lt;p&gt;Android Studio üzerinde uygulama geliştirirken şöyle bir durum ile karşılaştım.&lt;br /&gt;
+Layout kullanmadan bir dialog oluşturmam gerekiyordu. Bu dilog üzerindeki butonun onclick durumu tetiklendiğinde işlem yaptırmam gerekiyordu.&lt;br /&gt;
+Bu durum için alertdialog kullandım. Eğer istediğiniz boyutlarda ve özelliklerde dialog olsun isterseniz layout ile birlikte custom dialog kullanabilirsiniz.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Android Debug Bridge(adb) Komutları</title>
+      <link>https://sdatam.github.io/post/2018-12-20-adb-komutlari/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/post/2018-12-20-adb-komutlari/</guid>
+      <description>&lt;h3 id=&#34;nedir&#34;&gt;Nedir?&lt;/h3&gt;
+
+&lt;p&gt;Android Debug Bridge(adb) Android geliştiricilerinin kullandığı bir komut kütüphanesidir. ADB, emulator ya da bilgisayarınıza bağlı fiziksel cihazınızla iletişim kurulmasını sağlar.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Apktool Kurulumu ve Kullanımı</title>
+      <link>https://sdatam.github.io/post/2018-12-20-apktool-kurulumu-ve-kullanimi/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/post/2018-12-20-apktool-kurulumu-ve-kullanimi/</guid>
+      <description>&lt;h3 id=&#34;nedir&#34;&gt;Nedir?&lt;/h3&gt;
+
+&lt;p&gt;Apktool reverse engineering için kullanılır 3rd party Android uygulamaların apk dosyalarını decompile ederek smali kodlarına dönüştürür. AndroidManifest.xml dosyasını görebilirsiniz. Uygulamaları analiz etmek için kullanabilir. İsterseniz recompile edebilirsiniz.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hikayemiz</title>
+      <link>https://sdatam.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/page/about/</guid>
+      <description>..hikayemiz başladı. Bilgi güvenliği, kriptoloji, veri madenciliği, e-ticaret, web ve mobil uygulama alanlarında çalışıyor, akıllı sistemler geliştiriyoruz. Küçük bir ekibimiz büyük bir motivasyonumuz var.
+Bu platform bizim not defterimiz. Burda notlarımızı sizinle paylaşıyoruz.</description>
+    </item>
+    
+  </channel>
+</rss>
