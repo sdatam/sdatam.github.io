@@ -18,9 +18,7 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/post/2018-12-20-adb-komutlari/</guid>
-      <description>&lt;h3 id=&#34;nedir&#34;&gt;Nedir?&lt;/h3&gt;
-
-&lt;p&gt;Android Debug Bridge(adb) Android geliştiricilerinin kullandığı bir komut kütüphanesidir. ADB, emulator ya da bilgisayarınıza bağlı fiziksel cihazınızla iletişim kurulmasını sağlar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Android Debug Bridge(adb) Android geliştiricilerinin kullandığı bir komut kütüphanesidir. ADB, emulator ya da bilgisayarınıza bağlı fiziksel cihazınızla iletişim kurulmasını sağlar.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,9 +27,7 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/post/2018-12-20-apktool-kurulumu-ve-kullanimi/</guid>
-      <description>&lt;h3 id=&#34;nedir&#34;&gt;Nedir?&lt;/h3&gt;
-
-&lt;p&gt;Apktool reverse engineering için kullanılır 3rd party Android uygulamaların apk dosyalarını decompile ederek smali kodlarına dönüştürür. AndroidManifest.xml dosyasını görebilirsiniz. Uygulamaları analiz etmek için kullanabilir. İsterseniz recompile edebilirsiniz.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apktool reverse engineering için kullanılır 3rd party Android uygulamaların apk dosyalarını decompile ederek smali kodlarına dönüştürür. AndroidManifest.xml dosyasını görebilirsiniz. Uygulamaları analiz etmek için kullanabilir. İsterseniz recompile edebilirsiniz.&lt;/p&gt;</description>
     </item>
     
   </channel>
