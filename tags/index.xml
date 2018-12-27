@@ -33,7 +33,7 @@
     <item>
       <title>Android</title>
       <link>https://sdatam.github.io/tags/android/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/tags/android/</guid>
       <description></description>
@@ -45,6 +45,15 @@
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/tags/android-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apikey</title>
+      <link>https://sdatam.github.io/tags/apikey/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/apikey/</guid>
       <description></description>
     </item>
     
@@ -76,11 +85,20 @@
     </item>
     
     <item>
-      <title>Md5</title>
-      <link>https://sdatam.github.io/tags/md5/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Googlemaps</title>
+      <link>https://sdatam.github.io/tags/googlemaps/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/tags/md5/</guid>
+      <guid>https://sdatam.github.io/tags/googlemaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://sdatam.github.io/tags/maps/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/tags/maps/</guid>
       <description></description>
     </item>
     

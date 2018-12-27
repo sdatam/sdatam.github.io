@@ -7,22 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@sdatam.com (Sdatam)</managingEditor>
     <webMaster>info@sdatam.com (Sdatam)</webMaster>
-    <lastBuildDate>Sat, 22 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sdatam.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Android MD5 Kullanım Örneği</title>
-      <link>https://sdatam.github.io/post/2018-12-22-ornek-android-md5-kullanimi/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Google Maps API Kullanımı</title>
+      <link>https://sdatam.github.io/post/2018-12-27-android-google-maps-kullanimi/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/post/2018-12-22-ornek-android-md5-kullanimi/</guid>
-      <description>&lt;p&gt;MD5 değerini TextView üzerine yazdırarak bir örnek yapalım.&lt;/p&gt;
+      <guid>https://sdatam.github.io/post/2018-12-27-android-google-maps-kullanimi/</guid>
+      <description>&lt;h2 id=&#34;google-maps-api-key-oluşturma-ve-android-studio-da-google-maps-kullanımı&#34;&gt;Google Maps API Key Oluşturma ve Android Studio&amp;rsquo;da Google Maps Kullanımı&lt;/h2&gt;
 
-&lt;p&gt;Öncelikle layout dosyamıza bir TextView ekleyip id değerini textView yapalım.&lt;/p&gt;
+&lt;h3 id=&#34;api-key-oluşturma&#34;&gt;API Key Oluşturma&lt;/h3&gt;
 
-&lt;p&gt;textView nesnesini tanımlayalım.&lt;/p&gt;</description>
+&lt;p&gt;Bildiğiniz üzere Google Maps dünyada en çok kullanılan haritalardan birisidir. Google Maps&amp;rsquo;i Android Projemizde kullanabilmek için öncellikle Google Developer Console adresinden bir key almamız gerekiyor.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on &gt; sdatam_blog</title>
+    <link>https://sdatam.github.io/tags/maps/</link>
+    <description>Recent content in Maps on &gt; sdatam_blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@sdatam.com (Sdatam)</managingEditor>
+    <webMaster>info@sdatam.com (Sdatam)</webMaster>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sdatam.github.io/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Maps API Kullanımı</title>
+      <link>https://sdatam.github.io/post/2018-12-27-android-google-maps-kullanimi/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/post/2018-12-27-android-google-maps-kullanimi/</guid>
+      <description>&lt;h2 id=&#34;google-maps-api-key-oluşturma-ve-android-studio-da-google-maps-kullanımı&#34;&gt;Google Maps API Key Oluşturma ve Android Studio&amp;rsquo;da Google Maps Kullanımı&lt;/h2&gt;
+
+&lt;h3 id=&#34;api-key-oluşturma&#34;&gt;API Key Oluşturma&lt;/h3&gt;
+
+&lt;p&gt;Bildiğiniz üzere Google Maps dünyada en çok kullanılan haritalardan birisidir. Google Maps&amp;rsquo;i Android Projemizde kullanabilmek için öncellikle Google Developer Console adresinden bir key almamız gerekiyor.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
