@@ -18,9 +18,7 @@
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/post/2018-12-27-android-google-maps-kullanimi/</guid>
-      <description>&lt;h2 id=&#34;google-maps-api-key-oluşturma-ve-android-studio-da-google-maps-kullanımı&#34;&gt;Google Maps API Key Oluşturma ve Android Studio&amp;rsquo;da Google Maps Kullanımı&lt;/h2&gt;
-
-&lt;h3 id=&#34;api-key-oluşturma&#34;&gt;API Key Oluşturma&lt;/h3&gt;
+      <description>&lt;p&gt;&lt;strong&gt;API Key Oluşturma&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Bildiğiniz üzere Google Maps dünyada en çok kullanılan haritalardan birisidir. Google Maps&amp;rsquo;i Android Projemizde kullanabilmek için öncellikle Google Developer Console adresinden bir key almamız gerekiyor.&lt;/p&gt;</description>
     </item>
