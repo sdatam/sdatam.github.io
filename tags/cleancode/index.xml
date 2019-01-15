@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cleancode on &gt; sdatam_blog</title>
+    <link>https://sdatam.github.io/tags/cleancode/</link>
+    <description>Recent content in Cleancode on &gt; sdatam_blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@sdatam.com (Sdatam)</managingEditor>
+    <webMaster>info@sdatam.com (Sdatam)</webMaster>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sdatam.github.io/tags/cleancode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android Butter Knife Kütüphanesi Kullanımı</title>
+      <link>https://sdatam.github.io/post/2019-01-15-android-butterknife-kullanimi/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/post/2019-01-15-android-butterknife-kullanimi/</guid>
+      <description>Merhaba arkadaşlar, bugün sizlere projemde kullandığım Butter Knife kütüphanesinden bahsedeceğim.
+Proje büyüdükçe kod karmaşıklığı da artıyor ve kodun okunabilirliği azalıyor. Daha az satır ve okunabilir bir kod yazmak için ButterKnife kütüphanesini kullanabilirsiniz.
+Butter Knife bir View Injector kütüphanesidir. Uygulamamızda bulunan bileşenlere annotationlar kullanarak direkt olarak erişebilmemizi sağlıyor. Öncelikle Butter Knife kütüphanesini projemizde kullanabilmemiz için build.gradle içerisine dahil etmemiz gerekiyor.
+dependencies { implementation &amp;#39;com.jakewharton:butterknife:10.0.0&amp;#39; annotationProcessor &amp;#39;com.jakewharton:butterknife-compiler:10.0.0&amp;#39; } Projemize MainActivity adında bir Empty Activity ekleyelim.</description>
+    </item>
+    
+  </channel>
+</rss>
