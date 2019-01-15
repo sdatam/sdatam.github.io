@@ -33,7 +33,7 @@
     <item>
       <title>Android</title>
       <link>https://sdatam.github.io/tags/android/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/tags/android/</guid>
       <description></description>
@@ -49,38 +49,11 @@
     </item>
     
     <item>
-      <title>Apikey</title>
-      <link>https://sdatam.github.io/tags/apikey/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/tags/apikey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Apktool</title>
       <link>https://sdatam.github.io/tags/apktool/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/tags/apktool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Butterknife</title>
-      <link>https://sdatam.github.io/tags/butterknife/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/tags/butterknife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cleancode</title>
-      <link>https://sdatam.github.io/tags/cleancode/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/tags/cleancode/</guid>
       <description></description>
     </item>
     
@@ -103,20 +76,11 @@
     </item>
     
     <item>
-      <title>Googlemaps</title>
-      <link>https://sdatam.github.io/tags/googlemaps/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Md5</title>
+      <link>https://sdatam.github.io/tags/md5/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/tags/googlemaps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maps</title>
-      <link>https://sdatam.github.io/tags/maps/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/tags/maps/</guid>
+      <guid>https://sdatam.github.io/tags/md5/</guid>
       <description></description>
     </item>
     
@@ -144,15 +108,6 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       <author>info@sdatam.com (Sdatam)</author>
       <guid>https://sdatam.github.io/tags/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viewinjection</title>
-      <link>https://sdatam.github.io/tags/viewinjection/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <author>info@sdatam.com (Sdatam)</author>
-      <guid>https://sdatam.github.io/tags/viewinjection/</guid>
       <description></description>
     </item>
     
