@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sdatam.github.io/post/2018-12-22-ornek-android-md5-kullanimi/</loc>
-    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+    <loc>https://sdatam.github.io/post/2019-01-15-android-butterknife-kullanimi/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdatam.github.io/post/2018-12-27-android-google-maps-kullanimi/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://sdatam.github.io/</loc>
-    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,7 +47,7 @@
   
   <url>
     <loc>https://sdatam.github.io/tags/android/</loc>
-    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,13 +58,31 @@
   </url>
   
   <url>
+    <loc>https://sdatam.github.io/tags/apikey/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sdatam.github.io/tags/apktool/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sdatam.github.io/tags/butterknife/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sdatam.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sdatam.github.io/tags/cleancode/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,12 +99,18 @@
   </url>
   
   <url>
+    <loc>https://sdatam.github.io/tags/googlemaps/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sdatam.github.io/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://sdatam.github.io/tags/md5/</loc>
-    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+    <loc>https://sdatam.github.io/tags/maps/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,7 +121,7 @@
   
   <url>
     <loc>https://sdatam.github.io/post/</loc>
-    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,6 +146,12 @@
   <url>
     <loc>https://sdatam.github.io/tags/tools/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sdatam.github.io/tags/viewinjection/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
