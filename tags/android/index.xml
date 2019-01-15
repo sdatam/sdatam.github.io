@@ -34,6 +34,19 @@ Proje büyüdükçe kod karmaşıklığı da artıyor ve kodun okunabilirliği a
     </item>
     
     <item>
+      <title>Android MD5 Kullanım Örneği</title>
+      <link>https://sdatam.github.io/post/2018-12-22-ornek-android-md5-kullanimi/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <author>info@sdatam.com (Sdatam)</author>
+      <guid>https://sdatam.github.io/post/2018-12-22-ornek-android-md5-kullanimi/</guid>
+      <description>&lt;p&gt;MD5 değerini TextView üzerine yazdırarak bir örnek yapalım.&lt;/p&gt;
+
+&lt;p&gt;Öncelikle layout dosyamıza bir TextView ekleyip id değerini textView yapalım.&lt;/p&gt;
+
+&lt;p&gt;textView nesnesini tanımlayalım.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Alert Dialog Örneği</title>
       <link>https://sdatam.github.io/post/2018-12-21-alert-dialog-example/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>

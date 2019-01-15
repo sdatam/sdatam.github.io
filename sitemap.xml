@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://sdatam.github.io/post/2018-12-22-ornek-android-md5-kullanimi/</loc>
+    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sdatam.github.io/post/2018-12-21-alert-dialog-example/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -111,6 +116,12 @@
   <url>
     <loc>https://sdatam.github.io/tags/maps/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sdatam.github.io/tags/md5/</loc>
+    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
